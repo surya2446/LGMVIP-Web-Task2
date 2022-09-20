@@ -1,0 +1,13 @@
+@layer utilities {
+    .content-auto {
+      content-visibility: auto;
+    }
+    .test{
+        background: #222;
+    }
+  }
+  .cus{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
